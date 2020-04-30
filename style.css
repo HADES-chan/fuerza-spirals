@@ -1,0 +1,60 @@
+.season-header{
+	font-size: 150%;
+	margin-bottom: 0.25em;
+}
+.season-body{
+	margin-bottom: 1em;
+}
+.story-header{
+	font-size: 125%;
+	margin-bottom: 0.25em;
+}
+.story-body{
+	margin-bottom: 1em;
+}
+.story-body a{
+	text-decoration: none;
+}
+td{
+	width: 10em;
+}
+tr:nth-child(even) {
+	background: rgba(0, 0, 0, 0.1);
+}
+td.undone{
+	background: rgba(255, 0, 0, 0.2);
+}
+td.done{
+	text-align: center;
+	background: rgba(0, 255, 0, 0.2);
+}
+.season-header{
+	font-size: 150%;
+	margin-bottom: 0.25em;
+}
+.season-body{
+	margin-bottom: 1em;
+}
+.story-header{
+	font-size: 125%;
+	margin-bottom: 0.25em;
+}
+.story-body{
+	margin-bottom: 1em;
+}
+.story-body a{
+	text-decoration: none;
+}
+td{
+	width: 10em;
+}
+tr:nth-child(even) {
+	background: rgba(0, 0, 0, 0.1);
+}
+td.undone{
+	background: rgba(255, 0, 0, 0.2);
+}
+td.done{
+	text-align: center;
+	background: rgba(0, 255, 0, 0.2);
+}
